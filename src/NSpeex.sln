@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NSpeex.TypeScript", "NSpeex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSpeex.Decoder", "NSpeex.TypeScript\NSpeex.Decoder\NSpeex.Decoder.csproj", "{A9784939-EF6C-4A04-A96A-17507B694262}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSpeex.Reactive.Touch", "NSpeex.Reactive.Touch\NSpeex.Reactive.Touch.csproj", "{FE568800-69C0-4E1A-88B5-12941A50FC77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		AppStore|Any CPU = AppStore|Any CPU
@@ -103,6 +105,18 @@ Global
 		{A9784939-EF6C-4A04-A96A-17507B694262}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A9784939-EF6C-4A04-A96A-17507B694262}.Release|x86.ActiveCfg = Release|Any CPU
 		{A9784939-EF6C-4A04-A96A-17507B694262}.Release|x86.Build.0 = Release|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.AppStore|x86.ActiveCfg = AppStore|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.AppStore|x86.Build.0 = AppStore|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.Debug|x86.Build.0 = Debug|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.Release|x86.ActiveCfg = Release|Any CPU
+		{FE568800-69C0-4E1A-88B5-12941A50FC77}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
